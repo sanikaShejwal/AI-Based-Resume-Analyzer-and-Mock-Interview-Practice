@@ -14,17 +14,27 @@ Backend: Flask (Python)
 Database: SQLite  
 AI: Google Gemini API  
 
- ⚙️ Setup Instructions
+⚙️ Installation & Setup
 
- Backend
-cd backend
+Follow these steps to run the project locally:
+
+1️⃣ Clone the repository
+git clone https://github.com/your-username/resume-analyzer.git
+cd resume-analyzer
+
+2️⃣ Create virtual environment (optional but recommended)
+python -m venv venv
+venv\Scripts\activate   # Windows
+
+3️⃣ Install dependencies
 pip install -r requirements.txt
+
+4️⃣ Run the application
 python app.py
 
-Frontend
-cd frontend
-npm install
-npm start
+Then open:
+
+http://127.0.0.1:5000/
 
 🔐 Environment Variables
 Create .env file in backend:
@@ -34,6 +44,9 @@ GEMINI_API_KEY=your_api_key_here
 - Voice-based interview
 - More accurate AI scoring
 - Resume-job matching
+
+📸 Screenshots
+
 
 👩‍💻 Author
 Sanika Shejwal
