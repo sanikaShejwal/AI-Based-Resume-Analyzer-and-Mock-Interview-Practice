@@ -45,7 +45,44 @@ GEMINI_API_KEY=your_api_key_here
 - More accurate AI scoring
 - Resume-job matching
 
+
 📸 Screenshots
+
+
+👩‍💻 Author
+Sanika Shejwal
+=======
+## 📸 Screenshots
+
+### 🏠 Project Dashboard
+![Dashboard](screenshot/Dashboard.png)
+
+### 🔐 Login Page
+![Login](screenshot/Login.png)
+
+### 📝 Register Page
+![Register](screenshot/Register.png)
+
+### 📄 Upload Resume
+![Upload Resume](screenshot/uploadResume.png)
+
+### 📑 Resume Analysis
+![Resume Analysis](screenshot/ResumeAnalysis.png)
+
+### 📋 Resume Details
+![Resume](screenshot/Resume.png)
+
+### 🎤 Mock Interview
+![Interview](screenshot/interview.png)
+
+### 💬 Interview System
+![Interview System](screenshot/InterviewSystem.png)
+
+### 📊 Scorecard
+![Scorecard](screenshot/Scorecard.png)
+
+### 📜 Result History
+![History](screenshot/History.png)
 
 
 👩‍💻 Author
